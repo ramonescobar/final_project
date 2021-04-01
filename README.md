@@ -8,7 +8,7 @@ ___
 
 **Profesor**: Ing. Preng Biba
 
-## Descripción 
+## Descripción :wrench:
 El proyecto consistió en el desarrollo de una regresión lineal a partir de Python básico y Numpy. 
 A grandes rasgos, el proyecto se creó a partir de los siguiente pasos:
 
@@ -19,5 +19,8 @@ A grandes rasgos, el proyecto se creó a partir de los siguiente pasos:
 5. Evaluación de los modelos entrenados con base en los errores y el ajuste a la data original de entrenamiento
 6. Predicciones con la data de prueba tanto en el modelo creado como con el modelo de scikit learn
 
-## Video Descriptivo
+## Video Descriptivo :movie_camera:
 Todos los pasos descritos, así como un *overview* general del código utilizado está disponible en Youtube: TBD
+
+## Contacto :telephone:
+:e-mail: ramon.escobar@galileo.edu
