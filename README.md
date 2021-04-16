@@ -20,7 +20,7 @@ A grandes rasgos, el proyecto se creó a partir de los siguiente pasos:
 6. Predicciones con la data de prueba tanto en el modelo creado como con el modelo de scikit learn
 
 ## Video Descriptivo :movie_camera:
-Todos los pasos descritos, así como un *overview* general del código utilizado está disponible en Youtube: TBD
+Todos los pasos descritos, así como un *overview* general del código utilizado está disponible en [Youtube](https://youtu.be/O4KMS9w80f0)
 
 ## Contacto :telephone:
 :e-mail: ramon.escobar@galileo.edu
